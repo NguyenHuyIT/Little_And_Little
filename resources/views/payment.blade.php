@@ -114,7 +114,7 @@
           <label for="name">Họ tên chủ thẻ</label><br />
           <input
             class="input input-full"
-            type="number"
+            type="text"
             name="name"
             placeholder="Họ tên chủ thẻ"
           /><br />
